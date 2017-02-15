@@ -1,6 +1,6 @@
-# Jarvus GateKeeper
+# Jarvus Gatekeeper
 
-GateKeeper is a web application designed to sit between internal API endpoints and public users.
+Gatekeeper is a web application designed to sit between internal API endpoints and public users.
 It provides a central facility for logging, analyzing, rate-limiting, and credentialing access.
 
 ## Features
@@ -28,7 +28,7 @@ These features are currently under development for the next release:
 - Advanced filtering, sorting, and searching for transactions log
 
 ## Requirements
-The GateKeeper application is built on the Emergence PHP framework and deployment engine, and requires an Emergence server to host it.
+The Gatekeeper application is built on the Emergence PHP framework and deployment engine, and requires an Emergence server to host it.
 
 Emergence takes just a few minutes to setup on a Linux VM, and is designed to have a fresh system to itself. Once launched
 it will configure services on the machine as-needed to host an instance of the application along with any other
@@ -39,7 +39,7 @@ sites, clones, or child sites. The guides for Ubuntu and Gentoo are most up-to-d
 #### Option 1) fork via Emergence (recommended)
 -  Create an emergence site that extends http://Nrnt1W9ER1FewOP1@gatekeeper.sandbox01.jarv.us
 
-This video walks through the complete process of installing emergence and then instantiating the GateKeeper application:
+This video walks through the complete process of installing emergence and then instantiating the Gatekeeper application:
 
 [![Walkthrough Video](http://b.vimeocdn.com/ts/455/313/455313620_640.jpg)](https://vimeo.com/79587819)
 
